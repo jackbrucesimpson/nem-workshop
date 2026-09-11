@@ -1,2 +1,2 @@
-# nem-workshop
+# NEM Workshop
 NEM workshop materials
